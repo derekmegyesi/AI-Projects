@@ -13,7 +13,7 @@ Single-player Battleship game exploring decision-making under constraints.
 ### Social Starter Kit
 Starter project for building social-style applications.
 
-- Repo: https://github.com/YOUR_USERNAME/social-starter-kit
+- Repo: https://github.com/derekmegyesi/social-starter-kit
 - Focus: reusable architecture, rapid product iteration
 
 ---
