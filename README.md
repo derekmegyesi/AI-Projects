@@ -1,6 +1,6 @@
 # AI Projects
 
-This repository is a collection of projects focused on AI-assisted development, product thinking, and system design.
+This repo serves as a centralized portfolio of applied AI product experiments and system designs.
 
 ## Projects
 
